@@ -1,0 +1,2806 @@
+{
+    "arguments": {
+        "torrents": [
+            {
+                "id": 1,
+                "name": "The.King.of.Staten.Island.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10287600284,
+                "uploadRatio": 0.5235
+            },
+            {
+                "id": 2,
+                "name": "When.Harry.Met.Sally.1989.REMASTERED.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10558286158,
+                "uploadRatio": 0.1825
+            },
+            {
+                "id": 3,
+                "name": "Sleepless.in.Seattle.1993.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9385406678,
+                "uploadRatio": 0.4057
+            },
+            {
+                "id": 4,
+                "name": "Step.Brothers.Unrated.2008.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10678573218,
+                "uploadRatio": 0.1088
+            },
+            {
+                "id": 5,
+                "name": "Out.2020.720p.DSNP.WEB-DL.DDP5.1.H.264-WELP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 320569889,
+                "uploadRatio": 1.3168
+            },
+            {
+                "id": 6,
+                "name": "Harry.Potter.and.the.Chamber.of.Secrets.2002.BluRay.1080p.DTS.x264.dxva-FraMeSToR.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9922843178,
+                "uploadRatio": 0.3293
+            },
+            {
+                "id": 7,
+                "name": "The.Royal.Tenenbaums.2001.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8213801909,
+                "uploadRatio": 0.2448
+            },
+            {
+                "id": 8,
+                "name": "Snowpiercer.2013.1080p.BluRay.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11772449609,
+                "uploadRatio": 0.0883
+            },
+            {
+                "id": 9,
+                "name": "best.in.show.2000.1080p.bluray.x264-hd4u.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7034074015,
+                "uploadRatio": 0.2690
+            },
+            {
+                "id": 10,
+                "name": "Scoob.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5782743386,
+                "uploadRatio": 0.0232
+            },
+            {
+                "id": 11,
+                "name": "Star.Wars.Episode.I.The.Phantom.Menace.1999.1080p.BluRay.DTS-ES.x264.D-Z0N3.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14046139517,
+                "uploadRatio": 0.2779
+            },
+            {
+                "id": 12,
+                "name": "Happy.Feet.Two.2011.1080p.BluRay.x264-SECTOR7",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7043230281,
+                "uploadRatio": 0.1808
+            },
+            {
+                "id": 13,
+                "name": "Boogie.Nights.1997.1080p.BluRay.x264.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8191966082,
+                "uploadRatio": 0.1029
+            },
+            {
+                "id": 14,
+                "name": "Babe.Pig.In.The.City.1998.1080p.BluRay.x264-7SinS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7037146777,
+                "uploadRatio": 0.1272
+            },
+            {
+                "id": 15,
+                "name": "Babe.1995.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7037019911,
+                "uploadRatio": 0.3640
+            },
+            {
+                "id": 16,
+                "name": "solo.a.star.wars.story.2018.1080p.bluray.x264-sparks.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11734914389,
+                "uploadRatio": 0.0883
+            },
+            {
+                "id": 17,
+                "name": "The.Willoughbys.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2898718689,
+                "uploadRatio": 0.0578
+            },
+            {
+                "id": 18,
+                "name": "Singin.In.The.Rain.1952.720p.BluRay.DD5.1.X264-DON",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7968959917,
+                "uploadRatio": 0.1665
+            },
+            {
+                "id": 19,
+                "name": "Da.5.Bloods.2020.REPACK.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8430619402,
+                "uploadRatio": 0.2789
+            },
+            {
+                "id": 20,
+                "name": "Toy.Story.1995.1080p.BluRay.x264-BestHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4691608760,
+                "uploadRatio": 0.0657
+            },
+            {
+                "id": 21,
+                "name": "Pocahontas.1995.TWN.BluRay.Remux.1080p.AVC.DTS-HD.MA.5.1-ReQuEsT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 15761826006,
+                "uploadRatio": 0.1136
+            },
+            {
+                "id": 22,
+                "name": "The.Adventures.of.Tintin.2011.BluRay.1080p.DTS.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10239525724,
+                "uploadRatio": 0.1738
+            },
+            {
+                "id": 23,
+                "name": "Catch.Me.If.You.Can.2002.1080p.BluRay.x264-HD4U",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10561455666,
+                "uploadRatio": 0.2112
+            },
+            {
+                "id": 24,
+                "name": "Lorenzos.Oil.1992.720p.WEB-DL.AAC2.0.H.264-ViGi.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4108344289,
+                "uploadRatio": 0.1925
+            },
+            {
+                "id": 25,
+                "name": "The.Witches.of.Eastwick.1987.720p.BluRay.x264-DON",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5878392573,
+                "uploadRatio": 0.2740
+            },
+            {
+                "id": 26,
+                "name": "The.Good.Dinosaur.2015.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4733293578,
+                "uploadRatio": 0.0477
+            },
+            {
+                "id": 27,
+                "name": "Mad.Max.Beyond.Thunderdome.1985.720p.BluRay.x264-SiNNERS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4689395804,
+                "uploadRatio": 0.1280
+            },
+            {
+                "id": 28,
+                "name": "The.Big.Lebowski.1998.LIMITED.1080p.BluRay.DTS.x264-HDMaNiAcS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14819798660,
+                "uploadRatio": 0.1753
+            },
+            {
+                "id": 29,
+                "name": "Just.Mercy.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10282572215,
+                "uploadRatio": 0.0379
+            },
+            {
+                "id": 30,
+                "name": "The.Way.Back.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4781400338,
+                "uploadRatio": 0.0164
+            },
+            {
+                "id": 31,
+                "name": "Gemini.Man.2019.720p.BluRay.x264.DTS-FGT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6152733377,
+                "uploadRatio": 0.0477
+            },
+            {
+                "id": 32,
+                "name": "The.Call.of.the.Wild.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3111098170,
+                "uploadRatio": 0.0362
+            },
+            {
+                "id": 33,
+                "name": "The.Gentlemen.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8331377452,
+                "uploadRatio": 0.0496
+            },
+            {
+                "id": 34,
+                "name": "Sonic.the.Hedgehog.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5790204751,
+                "uploadRatio": 0.0125
+            },
+            {
+                "id": 35,
+                "name": "Mad.Max.2.The.Road.Warrior.1981.1080p.BluRay.x264-CULTHD",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8534529827,
+                "uploadRatio": 0.2308
+            },
+            {
+                "id": 36,
+                "name": "Birds.of.Prey.and.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8069187184,
+                "uploadRatio": 0.0651
+            },
+            {
+                "id": 37,
+                "name": "Onward.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-PyR8zdl.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6739454893,
+                "uploadRatio": 0.0298
+            },
+            {
+                "id": 38,
+                "name": "The.Invisible.Man.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4040521019,
+                "uploadRatio": 0.1242
+            },
+            {
+                "id": 39,
+                "name": "Fantastic.Fungi.2019.1080p.WEB-DL.AAC2.0.x264-KGB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3004192386,
+                "uploadRatio": 0.0884
+            },
+            {
+                "id": 40,
+                "name": "Mad.Max.1979.1080p.BluRay.x264-CiNEFiLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7040786141,
+                "uploadRatio": 0.1734
+            },
+            {
+                "id": 41,
+                "name": "The.Outsiders.1983.720p.BluRay.DTS.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5574670499,
+                "uploadRatio": 0.2027
+            },
+            {
+                "id": 42,
+                "name": "long.shot.2019.1080p.bluray.x264-drones.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9386851916,
+                "uploadRatio": 0.0404
+            },
+            {
+                "id": 43,
+                "name": "Star.Wars.Episode.IX-The.Rise.of.Skywalker.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10316045239,
+                "uploadRatio": 0.1204
+            },
+            {
+                "id": 44,
+                "name": "Richard.Jewell.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7464550866,
+                "uploadRatio": 0.0375
+            },
+            {
+                "id": 45,
+                "name": "1917.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7336449505,
+                "uploadRatio": 0.1309
+            },
+            {
+                "id": 46,
+                "name": "Jumanji.The.Next.Level.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4117363667,
+                "uploadRatio": 0.1111
+            },
+            {
+                "id": 47,
+                "name": "Frances.Ha.2012.LIMITED.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7043168412,
+                "uploadRatio": 0.0005
+            },
+            {
+                "id": 48,
+                "name": "Star.Wars.Episode.VII.The.Force.Awakens.2015.Collectors.Edition.1080p.BluRay.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12185800811,
+                "uploadRatio": 0.0768
+            },
+            {
+                "id": 49,
+                "name": "spies.in.disguise.2019.1080p.bluray.x264-yol0w.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5866023787,
+                "uploadRatio": 0.0341
+            },
+            {
+                "id": 50,
+                "name": "Star.Wars.Episode.6.Return.Of.The.Jedi.1983.1080p.BluRay.DTS.x264.D-Z0N3.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 18489455316,
+                "uploadRatio": 0.1952
+            },
+            {
+                "id": 51,
+                "name": "Hidden.Figures.2016.720p.BluRay.AC3.x264-ZQ.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6351625489,
+                "uploadRatio": 0.0135
+            },
+            {
+                "id": 52,
+                "name": "Doctor.Sleep.2019.Directors.Cut.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9764654750,
+                "uploadRatio": 0.0576
+            },
+            {
+                "id": 53,
+                "name": "Portrait.de.la.jeune.fille.en.feu.2019.FRENCH.1080p.BluRay.x264.DTS-fist",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12432009943,
+                "uploadRatio": 0.2114
+            },
+            {
+                "id": 54,
+                "name": "Float.2019.720p.DSNP.WEB-DL.DDP5.1.H.264-WELP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 234842885,
+                "uploadRatio": 0.1624
+            },
+            {
+                "id": 55,
+                "name": "Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.1080p.BluRay.DTS.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 16499442733,
+                "uploadRatio": 0.1169
+            },
+            {
+                "id": 56,
+                "name": "Hair.Love.2019.1080p.WEB-DL.AAC2.0.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 51006487,
+                "uploadRatio": 0.0080
+            },
+            {
+                "id": 57,
+                "name": "Jurassic.Park.1993.RERIP.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9412709667,
+                "uploadRatio": 0.2421
+            },
+            {
+                "id": 58,
+                "name": "Bolt.2008.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6626417907,
+                "uploadRatio": 0.0640
+            },
+            {
+                "id": 59,
+                "name": "night at the museum.1080p-x264.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9392930363,
+                "uploadRatio": 0.4640
+            },
+            {
+                "id": 60,
+                "name": "13th.2016.1080p.NF.WEB-DL.DDP5.1.x264-ExREN.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6092529101,
+                "uploadRatio": 0.6993
+            },
+            {
+                "id": 61,
+                "name": "Mandy.2018.1080p.BluRay.X264-iNVANDRAREN",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8234339192,
+                "uploadRatio": 0.0406
+            },
+            {
+                "id": 62,
+                "name": "Irresistible.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7483755400,
+                "uploadRatio": 0.4633
+            },
+            {
+                "id": 63,
+                "name": "Mixed.Nuts.1994.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10251388122,
+                "uploadRatio": 0.6667
+            },
+            {
+                "id": 64,
+                "name": "Robots.2005.1080p.BluRay.DTS.x264-HDC.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7157038580,
+                "uploadRatio": 0.2523
+            },
+            {
+                "id": 65,
+                "name": "Michael.1996.1080p.Amazon.WEB-DL.DD+5.1.H.264-QOQ.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9906064491,
+                "uploadRatio": 0.9486
+            },
+            {
+                "id": 66,
+                "name": "Hamilton.2020.REPACK.1080p.WEB.h264-WATCHER.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11130060980,
+                "uploadRatio": 0.7903
+            },
+            {
+                "id": 67,
+                "name": "Hamilton.2020.HDR.2160p.WEB.H265-PETRiFiED.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 20877886873,
+                "uploadRatio": 0.6911
+            },
+            {
+                "id": 68,
+                "name": "The.Secret.Garden.1993.1080p.AMZN.WEB-DL.DD+2.0.x264-ABM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9023085944,
+                "uploadRatio": 0.1788
+            },
+            {
+                "id": 69,
+                "name": "Youve.Got.Mail.1998.1080p.BluRay.x264-CiNEFiLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8530479536,
+                "uploadRatio": 0.1780
+            },
+            {
+                "id": 70,
+                "name": "Harriet.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9540257035,
+                "uploadRatio": 0.0284
+            },
+            {
+                "id": 71,
+                "name": "Knives.Out.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9938728119,
+                "uploadRatio": 0.0578
+            },
+            {
+                "id": 72,
+                "name": "Honey.Boy.2019.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6533009135,
+                "uploadRatio": 0.0067
+            },
+            {
+                "id": 73,
+                "name": "Learning to Skateboard in a Warzone If You're a Girl.2019.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 580097608,
+                "uploadRatio": 0.0070
+            },
+            {
+                "id": 74,
+                "name": "A.Beautiful.Day.in.the.Neighborhood.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7865624216,
+                "uploadRatio": 0.0611
+            },
+            {
+                "id": 75,
+                "name": "Jojo.Rabbit.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8147345032,
+                "uploadRatio": 0.0118
+            },
+            {
+                "id": 76,
+                "name": "Uncut.Gems.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7901498765,
+                "uploadRatio": 0.0819
+            },
+            {
+                "id": 77,
+                "name": "Taylor.Swift.Miss.Americana.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5239214793,
+                "uploadRatio": 0.0382
+            },
+            {
+                "id": 78,
+                "name": "Mike.Birbiglia.The.New.One.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2350423435,
+                "uploadRatio": 0.1520
+            },
+            {
+                "id": 79,
+                "name": "Charlottes.Web.2006.1080p.BluRay.DTS.x264-HDMaNiAcS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14292576207,
+                "uploadRatio": 0.2677
+            },
+            {
+                "id": 80,
+                "name": "J.Ai.Perdu.Mon.Corps.2019.iNTERNAL.MULTi.1080p.WEB.x264-CiELOS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1908250078,
+                "uploadRatio": 0.0949
+            },
+            {
+                "id": 81,
+                "name": "Charlottes.Web.1973.1080p.WEBRip.DD2.0.x264-monkee.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2703244150,
+                "uploadRatio": 0.1076
+            },
+            {
+                "id": 82,
+                "name": "Philadelphia.1993.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10577375172,
+                "uploadRatio": 0.0648
+            },
+            {
+                "id": 83,
+                "name": "The.Silence.of.the.Lambs.1991.REMASTERED.1080p.BluRay.x264-SiNNERS.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12912816618,
+                "uploadRatio": 0.3645
+            },
+            {
+                "id": 84,
+                "name": "The.Tree.of.Life.2011.EXTENDED.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14084358180,
+                "uploadRatio": 0.1435
+            },
+            {
+                "id": 85,
+                "name": "The.Handmaiden.2016.1080p.BluRay.DTS.x264-EPiC.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10767065524,
+                "uploadRatio": 0.2617
+            },
+            {
+                "id": 86,
+                "name": "Beoning.2018.1080p.BluRay.DTS.x264-TayTO",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 15335959776,
+                "uploadRatio": 0.0612
+            },
+            {
+                "id": 87,
+                "name": "The.Master.2012.1080p.BluRay.DTS.x264-Skazhutin.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 16064801592,
+                "uploadRatio": 0.1371
+            },
+            {
+                "id": 88,
+                "name": "La.La.Land.2016.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9403256863,
+                "uploadRatio": 0.0706
+            },
+            {
+                "id": 89,
+                "name": "The.Social.Network.2010.Blu-Ray.1080p.x264.DXVA.DTS-de[42].mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9747311101,
+                "uploadRatio": 0.1087
+            },
+            {
+                "id": 90,
+                "name": "Stop.Making.Sense.1984.1080p.BluRay.FLAC.5.1.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12761684936,
+                "uploadRatio": 0.3294
+            },
+            {
+                "id": 91,
+                "name": "Inside Llewyn Davis 2013.1080p.BluRay x264-ALLiANCE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8216865069,
+                "uploadRatio": 0.0724
+            },
+            {
+                "id": 92,
+                "name": "High.Life.2018.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9384241397,
+                "uploadRatio": 0.0300
+            },
+            {
+                "id": 93,
+                "name": "The.Santa.Clause.1994.1080p.BluRay.x264-PSYCHD",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8216271840,
+                "uploadRatio": 0.2062
+            },
+            {
+                "id": 94,
+                "name": "Abominable.2019.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4693492825,
+                "uploadRatio": 0.0175
+            },
+            {
+                "id": 95,
+                "name": "Mickeys.Christmas.Carol.1983.1080p.BluRay.x264-ROVERS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1566071702,
+                "uploadRatio": 0.3531
+            },
+            {
+                "id": 96,
+                "name": "The Snowman.1982.1080p.x264.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1172485538,
+                "uploadRatio": 0.0706
+            },
+            {
+                "id": 97,
+                "name": "The.Muppet.Christmas.Carol.1992.1080p.BluRay.X264-KaKa",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7032793493,
+                "uploadRatio": 0.1029
+            },
+            {
+                "id": 98,
+                "name": "The.Lighthouse.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7095377782,
+                "uploadRatio": 0.0127
+            },
+            {
+                "id": 99,
+                "name": "Dolemite.Is.My.Name.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7073071705,
+                "uploadRatio": 0.0370
+            },
+            {
+                "id": 100,
+                "name": "Rocketman.2019.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8527988908,
+                "uploadRatio": 0.0322
+            },
+            {
+                "id": 101,
+                "name": "Judy.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5945271555,
+                "uploadRatio": 0.0031
+            },
+            {
+                "id": 102,
+                "name": "Ad.Astra.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8356546047,
+                "uploadRatio": 0.0193
+            },
+            {
+                "id": 103,
+                "name": "Parasite.2019.KOREAN.1080p.BluRay.x264.DTS-FGT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12874333098,
+                "uploadRatio": 0.0524
+            },
+            {
+                "id": 104,
+                "name": "The.Irishman.2019.1080p.NF.WEB-DL.DDP5.1.ATMOS.H264-CMRG",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11892194361,
+                "uploadRatio": 0.0366
+            },
+            {
+                "id": 105,
+                "name": "Hustlers.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7783645864,
+                "uploadRatio": 0.1598
+            },
+            {
+                "id": 106,
+                "name": "Jetsons.The.Movie.1990.1080p.BluRay.x264-USURY",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4690800177,
+                "uploadRatio": 0.0050
+            },
+            {
+                "id": 107,
+                "name": "Once.Upon.a.Time.in.Hollywood.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11843859955,
+                "uploadRatio": 0.0191
+            },
+            {
+                "id": 108,
+                "name": "Klaus.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2952556596,
+                "uploadRatio": 0.0831
+            },
+            {
+                "id": 109,
+                "name": "japhson-stuartlittle-1080p.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7024022176,
+                "uploadRatio": 0.0466
+            },
+            {
+                "id": 110,
+                "name": "Turbo.2013.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4760212419,
+                "uploadRatio": 0.1767
+            },
+            {
+                "id": 111,
+                "name": "Monster.House.2006.EUR.1080p.BluRay.DTS.x264-decibeL",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8664147535,
+                "uploadRatio": 0.2029
+            },
+            {
+                "id": 112,
+                "name": "Nosferatu.eine.Symphonie.des.Grauens.1922.720p.BluRay.FLAC2.0.x264-SbR.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9002347267,
+                "uploadRatio": 0.2104
+            },
+            {
+                "id": 113,
+                "name": "Frankenstein.1931.720p.BluRay.FLAC.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3847246139,
+                "uploadRatio": 0.0938
+            },
+            {
+                "id": 114,
+                "name": "Toy.Story.4.2019.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5867362099,
+                "uploadRatio": 0.0482
+            },
+            {
+                "id": 115,
+                "name": "Jaws.1975.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9477966335,
+                "uploadRatio": 0.4932
+            },
+            {
+                "id": 116,
+                "name": "Casper.1995.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8229203866,
+                "uploadRatio": 0.2004
+            },
+            {
+                "id": 117,
+                "name": "Midsommar.2019.1080p.BluRay.DTS.x264-POIASD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14142673964,
+                "uploadRatio": 0.1108
+            },
+            {
+                "id": 118,
+                "name": "Princess.Mononoke.1997.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8206285962,
+                "uploadRatio": 0.1604
+            },
+            {
+                "id": 119,
+                "name": "Porco.Rosso.1992.RERIP.1080p.BluRay.X264-AMIABLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7042087509,
+                "uploadRatio": 0.0894
+            },
+            {
+                "id": 120,
+                "name": "Spider.Man.Far.from.Home.2019.1080p.BluRay.DD5.1.x264-playHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12398992601,
+                "uploadRatio": 0.0842
+            },
+            {
+                "id": 121,
+                "name": "E.T.The.Extra-Terrestrial.1982.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9400760143,
+                "uploadRatio": 0.1281
+            },
+            {
+                "id": 122,
+                "name": "Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7071550467,
+                "uploadRatio": 0.0252
+            },
+            {
+                "id": 123,
+                "name": "Kiki's.Delivery.Service.1989.720p.BluRay.x264-CtrlHD",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7134291859,
+                "uploadRatio": 0.2352
+            },
+            {
+                "id": 124,
+                "name": "My.Neighbour.Totoro.1988.720p.BluRay.FLAC.x264.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6134209191,
+                "uploadRatio": 0.1988
+            },
+            {
+                "id": 125,
+                "name": "Tenkû.no.shiro.Rapyuta.1986.REMUXED.720p.Blu-ray.AAC2.0.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9293748219,
+                "uploadRatio": 0.1153
+            },
+            {
+                "id": 126,
+                "name": "Treasure Planet 2002 1080p BluRay DD5.1 x264-EbP",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6942136380,
+                "uploadRatio": 0.0818
+            },
+            {
+                "id": 127,
+                "name": "John.Wick.Chapter.3.Parabellum.2019.1080p.BluRay.DD-EX.5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 17138597659,
+                "uploadRatio": 0.1087
+            },
+            {
+                "id": 128,
+                "name": "Missing.Link.2019.1080p.BluRay.x264-AAA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4689522004,
+                "uploadRatio": 0.0115
+            },
+            {
+                "id": 129,
+                "name": "Minority Report",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11733718487,
+                "uploadRatio": 0.0252
+            },
+            {
+                "id": 130,
+                "name": "Aladdin.2019.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10563360487,
+                "uploadRatio": 0.0187
+            },
+            {
+                "id": 131,
+                "name": "Election.1999.REMASTERED.1080p.BluRay.x264-DEPTH",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10554490956,
+                "uploadRatio": 0.0639
+            },
+            {
+                "id": 132,
+                "name": "Anastasia 1997 1080p BluRay x264-HALCYON",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4692197158,
+                "uploadRatio": 0.4014
+            },
+            {
+                "id": 133,
+                "name": "Nausicaa.of.the.Valley.of.the.Wind.1984.MGVC.720p.BluRay.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10194928679,
+                "uploadRatio": 0.0453
+            },
+            {
+                "id": 134,
+                "name": "Lupin.III.The.Castle.of.Cagliostro.1979.1080p.BluRay.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4926318484,
+                "uploadRatio": 0.0145
+            },
+            {
+                "id": 135,
+                "name": "Veronica.Mars.2014.720p.BluRay.DD5.1.x264-HiFi.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5540700535,
+                "uploadRatio": 0.1360
+            },
+            {
+                "id": 136,
+                "name": "Ralph.Breaks.the.Internet.2018.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5868394339,
+                "uploadRatio": 0.0098
+            },
+            {
+                "id": 137,
+                "name": "Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10599736652,
+                "uploadRatio": 0.0255
+            },
+            {
+                "id": 138,
+                "name": "Her.Smell.2018.1080p.BluRay.x264.DTS-FGT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 13227108537,
+                "uploadRatio": 0.3349
+            },
+            {
+                "id": 139,
+                "name": "The.Fox.and.the.Hound.1981.1080p.BluRay.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7658501881,
+                "uploadRatio": 0.2765
+            },
+            {
+                "id": 140,
+                "name": "Willy.Wonka.and.the.Chocolate.Factory.1971.BluRay.1080p.DTS.x264.dxva-FTW-HD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11231157153,
+                "uploadRatio": 0.2376
+            },
+            {
+                "id": 141,
+                "name": "Apollo.11.2019.1080p.BluRay.x264-DRONES",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8220033945,
+                "uploadRatio": 0.0545
+            },
+            {
+                "id": 142,
+                "name": "Jumanji.1995.REMASTERED.1080p.BluRay.x264-HD4U",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8210755554,
+                "uploadRatio": 0.0727
+            },
+            {
+                "id": 143,
+                "name": "The.Rock.1996.1080p.BluRay.DTS.x264-ReQuEsT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 13922430622,
+                "uploadRatio": 0.3617
+            },
+            {
+                "id": 144,
+                "name": "One.Hundred.and.One.Dalmatians.1961.1080p.BluRay.DTS.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5357244178,
+                "uploadRatio": 24.7939
+            },
+            {
+                "id": 145,
+                "name": "The.Lion.King.1994.720p.BluRay.DD5.1.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3426595564,
+                "uploadRatio": 0.0854
+            },
+            {
+                "id": 146,
+                "name": "A.Goofy.Movie.1995.1080p.BluRay.DD.2.0.x264-MaG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7554297629,
+                "uploadRatio": 0.1770
+            },
+            {
+                "id": 147,
+                "name": "Rango.2011.EXTENDED.1080p.Bluray.x264-VeDeTT",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7040750689,
+                "uploadRatio": 0.0243
+            },
+            {
+                "id": 148,
+                "name": "20th.Century.Women.2016.1080p.BluRay.x264-GECKOS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9398235894,
+                "uploadRatio": 0.1108
+            },
+            {
+                "id": 149,
+                "name": "Avengers.Age.of.Ultron.2015.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11734105180,
+                "uploadRatio": 0.0491
+            },
+            {
+                "id": 150,
+                "name": "Captain.America.The.Winter.Soldier.2014.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10633200860,
+                "uploadRatio": 0.0265
+            },
+            {
+                "id": 151,
+                "name": "The.Grinch.2018.1080p.BluRay.x264-GECKOS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4702317396,
+                "uploadRatio": 0.2211
+            },
+            {
+                "id": 152,
+                "name": "Iron.Man.3.1080p.BluRay.DTS.x264-decibeL",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14542810809,
+                "uploadRatio": 0.1501
+            },
+            {
+                "id": 153,
+                "name": "Upgrade.2018.1080p.BluRay.x264-DRONES",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8216674986,
+                "uploadRatio": 0.0924
+            },
+            {
+                "id": 154,
+                "name": "The.Land.Before.Time.1988.720p.BluRay.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8580937468,
+                "uploadRatio": 0.2820
+            },
+            {
+                "id": 155,
+                "name": "Finding Nemo 2003 1080p BluRay DD5.1 x264-EbP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12218590824,
+                "uploadRatio": 0.0803
+            },
+            {
+                "id": 156,
+                "name": "Thor.2011.1080p.BluRay.DTS.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11671114754,
+                "uploadRatio": 0.1073
+            },
+            {
+                "id": 157,
+                "name": "Iron.Man.2.2010.1080p.BluRay.x264-EbP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12496225191,
+                "uploadRatio": 0.0329
+            },
+            {
+                "id": 158,
+                "name": "2001.A.Space.Odyssey.1968.4K.Remaster.1080p.BluRay.DTS.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14733492792,
+                "uploadRatio": 0.1360
+            },
+            {
+                "id": 159,
+                "name": "The.Ballad.of.Buster.Scruggs.2018.1080p.NF.WEB-DL.DDP5.1.x264-KamiKaze.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7937826348,
+                "uploadRatio": 0.3134
+            },
+            {
+                "id": 160,
+                "name": "The.Old.Guard.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5054069243,
+                "uploadRatio": 0.2571
+            },
+            {
+                "id": 161,
+                "name": "Palm.Springs.2020.1080p.HULU.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3158578438,
+                "uploadRatio": 0.4413
+            },
+            {
+                "id": 162,
+                "name": "First.Cow.2019.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9076895538,
+                "uploadRatio": 0.3759
+            },
+            {
+                "id": 163,
+                "name": "Greyhound.2020.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7456463202,
+                "uploadRatio": 0.6209
+            },
+            {
+                "id": 164,
+                "name": "Kubo.And.The.Two.Strings.2016.1080p.BluRay.x264-GECKOS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5875454245,
+                "uploadRatio": 0.0282
+            },
+            {
+                "id": 165,
+                "name": "Oldboy.2003.Blu-Ray.x264.DXVA.1080p.DTS-de[42].mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12422441014,
+                "uploadRatio": 0.2290
+            },
+            {
+                "id": 166,
+                "name": "Mission.Impossible.II.2000.BluRay.1080p.DTS.x264.dxva-decibeL.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11892805841,
+                "uploadRatio": 0.1556
+            },
+            {
+                "id": 167,
+                "name": "Winnie.the.Pooh.2011.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3535897441,
+                "uploadRatio": 0.1038
+            },
+            {
+                "id": 168,
+                "name": "Star.Wars.The.Clone.Wars.1080p.BluRay.x264-HDA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4638487437,
+                "uploadRatio": 0.6617
+            },
+            {
+                "id": 169,
+                "name": "Lucky.Numbers.2000.1080p.AMZN.WEB-DL.DDP5.1.H.264-ABM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8079786798,
+                "uploadRatio": 0.7560
+            },
+            {
+                "id": 170,
+                "name": "Spirited.Away.2001.1080p.BluRay.DTS.x264-TCO.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8955739711,
+                "uploadRatio": 0.2701
+            },
+            {
+                "id": 171,
+                "name": "Airplane.1980.REMASTERED.1080p.BluRay.x264.DTS-FGT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8554307983,
+                "uploadRatio": 0.2738
+            },
+            {
+                "id": 172,
+                "name": "Trolls.World.Tour.2020.1080p.BluRay.DD+7.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8421430940,
+                "uploadRatio": 0.0879
+            },
+            {
+                "id": 173,
+                "name": "spiderman.2002.remastered.1080p.bluray.x264-filmhd.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8211011192,
+                "uploadRatio": 0.1537
+            },
+            {
+                "id": 174,
+                "name": "Spider-Man.2.2004.Ext.Cut.1080p.BluRay.DTS.x264.D-Z0N3",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 15051287786,
+                "uploadRatio": 0.1566
+            },
+            {
+                "id": 175,
+                "name": "Howl's Moving Castle 1080p BluRay x264-EbP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9437371859,
+                "uploadRatio": 0.0973
+            },
+            {
+                "id": 176,
+                "name": "The.Mule.2018.1080p.BluRay.x264-DRONES",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9386743955,
+                "uploadRatio": 0.0877
+            },
+            {
+                "id": 177,
+                "name": "Mamma Mia! 2008 1080p Blu-Ray DTS x264-tK.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12223275166,
+                "uploadRatio": 0.4838
+            },
+            {
+                "id": 178,
+                "name": "Wings.Sky Force.Heroes.2014.720p.WEB-DL.x264[ETRG].mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2820155188,
+                "uploadRatio": 0.4354
+            },
+            {
+                "id": 179,
+                "name": "Iron.Man.2008.1080p.BluRay.x264-EbP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 13354762060,
+                "uploadRatio": 0.1745
+            },
+            {
+                "id": 180,
+                "name": "Teen Titans Go! To the Movies (2018) 1080p BluRay DD5.1 x264-Chotab.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9319599382,
+                "uploadRatio": 0.1666
+            },
+            {
+                "id": 181,
+                "name": "Song.of.the.Sea.2014.LIMITED.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4692883000,
+                "uploadRatio": 0.0417
+            },
+            {
+                "id": 182,
+                "name": "How.To.Train.Your.Dragon.1080p.Bluray.DTS-x264-HDxT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8112245615,
+                "uploadRatio": 0.0527
+            },
+            {
+                "id": 183,
+                "name": "Spider-Man.3.2007.1080p.BluRay.DTS.x264.D-Z0N3.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 18340918690,
+                "uploadRatio": 0.1709
+            },
+            {
+                "id": 184,
+                "name": "Julie.and.Julia.2009.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 24948058315,
+                "uploadRatio": 0.2128
+            },
+            {
+                "id": 185,
+                "name": "Bewitched.2005.REPACK.1080p.AMZN.WEB-DL.DD+5.1.H.264-monkee.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8902852465,
+                "uploadRatio": 0.3901
+            },
+            {
+                "id": 186,
+                "name": "The.Boxtrolls.2014.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5868783134,
+                "uploadRatio": 0.0470
+            },
+            {
+                "id": 187,
+                "name": "the.speed.cubers.2020.1080p.web.h264-huzzah.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1697720714,
+                "uploadRatio": 0.1032
+            },
+            {
+                "id": 188,
+                "name": "the.vast.of.night.2019.hdr.2160p.web.h265-watcher.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10653426738,
+                "uploadRatio": 0.0860
+            },
+            {
+                "id": 189,
+                "name": "ParaNorman.2012.1080p.BluRay.x264-ALLiANCE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4691120063,
+                "uploadRatio": 0.1022
+            },
+            {
+                "id": 190,
+                "name": "Coraline",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8533990147,
+                "uploadRatio": 0.0735
+            },
+            {
+                "id": 191,
+                "name": "The.One.and.Only.Ivan.2020.HDR.2160p.WEB.H265-METCON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11240249025,
+                "uploadRatio": 0.9135
+            },
+            {
+                "id": 192,
+                "name": "Tesla.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7349850576,
+                "uploadRatio": 0.3158
+            },
+            {
+                "id": 193,
+                "name": "Its.Such.a.Beautiful.Day.2012.1080p.BluRay.AAC2.0.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4508297194,
+                "uploadRatio": 0.1991
+            },
+            {
+                "id": 194,
+                "name": "Rio.2011.1080p.BluRay.x264.DTS-HDxT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8280384564,
+                "uploadRatio": 0.1378
+            },
+            {
+                "id": 195,
+                "name": "John.Was.Trying.to.Contact.Aliens.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 884902471,
+                "uploadRatio": 0.0448
+            },
+            {
+                "id": 196,
+                "name": "Bill.and.Ted.Face.the.Music.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6035996610,
+                "uploadRatio": 0.7092
+            },
+            {
+                "id": 197,
+                "name": "I.Wanna.Hold.Your.Hand.1978.1080p.BluRay.x264-112.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7247517936,
+                "uploadRatio": 0.4023
+            },
+            {
+                "id": 198,
+                "name": "Used.Cars.1980.720p.BluRay.DTS.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11373420480,
+                "uploadRatio": 0.5121
+            },
+            {
+                "id": 199,
+                "name": "Romancing.the.Stone.1984.720p.BluRay.DD5.1-x264-SbR",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5874561789,
+                "uploadRatio": 0.0627
+            },
+            {
+                "id": 200,
+                "name": "Mission Impossible - Rogue Nation 2015 1080p BluRay DD-EX x264-TayTO.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 19151256113,
+                "uploadRatio": 0.2166
+            },
+            {
+                "id": 201,
+                "name": "The.Way.Of.The.Gun.2000.1080p.BluRay.x264-FSiHD",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9389821335,
+                "uploadRatio": 0.0202
+            },
+            {
+                "id": 202,
+                "name": "Mulan.2020.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4328781355,
+                "uploadRatio": 0.4427
+            },
+            {
+                "id": 203,
+                "name": "Im.Thinking.of.Ending.Things.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7910295480,
+                "uploadRatio": 0.3389
+            },
+            {
+                "id": 204,
+                "name": "My.Octopus.Teacher.2020.1080p.NF.WEB-DL.DDP5.1.H.264-pawel2006.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4948794393,
+                "uploadRatio": 0.4470
+            },
+            {
+                "id": 205,
+                "name": "Mulan.2020.2160p.HDR.DSNP.WEBRip.DD+.5.1.Atmos.x265-SEMANTiCS.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11961255187,
+                "uploadRatio": 0.0714
+            },
+            {
+                "id": 206,
+                "name": "First.Cow.2019.1080p.BluRay.DTS.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 20891186213,
+                "uploadRatio": 0.3951
+            },
+            {
+                "id": 207,
+                "name": "Adam.2020.1080p.WEB-DL.DD5.1.x264-CMRG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4198284556,
+                "uploadRatio": 0.4040
+            },
+            {
+                "id": 208,
+                "name": "Little.Monsters.1989.1080p.BluRay.FLAC.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9484608949,
+                "uploadRatio": 0.1328
+            },
+            {
+                "id": 209,
+                "name": "Back.to.the.Future.1985.1080p.BluRay.x264-NODLABS.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8529364930,
+                "uploadRatio": 0.0459
+            },
+            {
+                "id": 210,
+                "name": "Who.Framed.Roger.Rabbit.1988.1080p.BluRay.x264-HD4U",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8214066614,
+                "uploadRatio": 0.0812
+            },
+            {
+                "id": 211,
+                "name": "Alien.1979.Directors.Cut.1080p.BluRay.x264.DTS-WiKi",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8608027562,
+                "uploadRatio": 0.0920
+            },
+            {
+                "id": 212,
+                "name": "Happy.Feet.2006.1080p.BluRay.DD.EX.5.1.x264-WiLDCAT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9675715258,
+                "uploadRatio": 0.2931
+            },
+            {
+                "id": 213,
+                "name": "Ghostbusters.1984.1080p.BluRay.x264-DON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 19572001857,
+                "uploadRatio": 0.1794
+            },
+            {
+                "id": 214,
+                "name": "The.Birds.1963.720p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5868429599,
+                "uploadRatio": 0.0870
+            },
+            {
+                "id": 215,
+                "name": "Console.Wars.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6437678525,
+                "uploadRatio": 0.1370
+            },
+            {
+                "id": 216,
+                "name": "Jennifer's.Body.2009.UNRATED.BluRay.1080p.DTS.x264.dxva-wsp.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11236915920,
+                "uploadRatio": 0.1469
+            },
+            {
+                "id": 217,
+                "name": "Aliens.1986.Theatrical.Cut.1080p.BluRay.DTS.x264-FoRM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 19208860102,
+                "uploadRatio": 0.1950
+            },
+            {
+                "id": 218,
+                "name": "One.Cut.of.the.Dead.2017.1080p.Blu-ray.FLAC2.0.x264-PbK",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6574869560,
+                "uploadRatio": 0.0393
+            },
+            {
+                "id": 219,
+                "name": "The.Trial.of.the.Chicago.7.2020.1080p.NF.WEB-DL.DDP5.1.x264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4131063298,
+                "uploadRatio": 0.3449
+            },
+            {
+                "id": 220,
+                "name": "Kajillionaire.2020.1080p.WEB-DL.H264.AC3-",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4083236671,
+                "uploadRatio": 0.5348
+            },
+            {
+                "id": 221,
+                "name": "You.Should.Have.Left.2020.1080p.BluRay.DD+5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12446572966,
+                "uploadRatio": 0.1316
+            },
+            {
+                "id": 222,
+                "name": "Back to the Future Part III.1080p.BluRay.x264-LCHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8525888078,
+                "uploadRatio": 0.1230
+            },
+            {
+                "id": 223,
+                "name": "Mulan.2020.HDR.2160p.WEB.h265-FREEHK.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14292642717,
+                "uploadRatio": 0.1173
+            },
+            {
+                "id": 224,
+                "name": "THX.1138.1971.1080p.BluRay.x264-CiNEFiLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7043366180,
+                "uploadRatio": 0.1217
+            },
+            {
+                "id": 225,
+                "name": "Borat.Subsequent.Moviefilm.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6807962343,
+                "uploadRatio": 0.7278
+            },
+            {
+                "id": 226,
+                "name": "On.The.Rocks.2020.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7867474877,
+                "uploadRatio": 0.4292
+            },
+            {
+                "id": 227,
+                "name": "Death.Becomes.Her.1992.1080p.BluRay.DTS.x264-VietHD",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 15128729252,
+                "uploadRatio": 0.2440
+            },
+            {
+                "id": 228,
+                "name": "Once.Upon.a.Snowman.2020.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-LAZY.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 320447999,
+                "uploadRatio": 0.0359
+            },
+            {
+                "id": 229,
+                "name": "Back.to.the.Future.Part.II.1989.1080p.BluRay.DD+7.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 16253380632,
+                "uploadRatio": 0.4235
+            },
+            {
+                "id": 230,
+                "name": "Over.the.Moon.2020.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 4610100881,
+                "uploadRatio": 0.2308
+            },
+            {
+                "id": 231,
+                "name": "Spell.2020.1080p.WEB-DL.DD5.1.H.264-",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3396129981,
+                "uploadRatio": 0.2688
+            },
+            {
+                "id": 232,
+                "name": "Forrest.Gump.1994.1080p.BluRay.DTS.x264.D-Z0N3.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 18801126521,
+                "uploadRatio": 0.1068
+            },
+            {
+                "id": 233,
+                "name": "Alien.3.1992.Theatrical.Cut.1080p.BluRay.DTS.x264-FoRM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11461029549,
+                "uploadRatio": 0.2728
+            },
+            {
+                "id": 234,
+                "name": "Memento.2000.BluRay.1080p.DTS-HD.MA.5.1.AVC.HYBRID.REMUX-FraMeSToR",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 33846292646,
+                "uploadRatio": 0.2837
+            },
+            {
+                "id": 235,
+                "name": "The.Witches.2020.2020.1080p.HMAX.WEB-DL.DD5.1.H.264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6732281113,
+                "uploadRatio": 0.0441
+            },
+            {
+                "id": 236,
+                "name": "Possessor.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6685538304,
+                "uploadRatio": 0.1642
+            },
+            {
+                "id": 237,
+                "name": "Relic.2020.1080p.BluRay.DD+5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8147793097,
+                "uploadRatio": 0.1893
+            },
+            {
+                "id": 238,
+                "name": "Contact.1997.1080p.BluRay.DTS.x264-HiDt.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14045488247,
+                "uploadRatio": 0.0754
+            },
+            {
+                "id": 239,
+                "name": "Your.Name.2016.Hybrid.1080p.BluRay.AC3.x264.D-Z0N3.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10052390616,
+                "uploadRatio": 0.0725
+            },
+            {
+                "id": 240,
+                "name": "The.New.Mutants.2020.BluRay.1080p.TrueHD.Atmos.7.1.AVC.HYBRID.REMUX-FraMeSToR",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 25139045758,
+                "uploadRatio": 0.2635
+            },
+            {
+                "id": 241,
+                "name": "What.Lies.Beneath.2000.BluRay.1080p.x264-Spekt0r.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11907065138,
+                "uploadRatio": 0.2658
+            },
+            {
+                "id": 242,
+                "name": "Prometheus.2012.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9549867404,
+                "uploadRatio": 0.0687
+            },
+            {
+                "id": 243,
+                "name": "Trolls.2016.1080p.BluRay.DTS-ES.x264-NCmt.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9943786513,
+                "uploadRatio": 0.0742
+            },
+            {
+                "id": 244,
+                "name": "The Wiggles - Go Santa Go!.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1425048579,
+                "uploadRatio": 0.8127
+            },
+            {
+                "id": 245,
+                "name": "The.Wiggles.Rock.n.Roll.Preschool.2015.DVDRip.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 898023447,
+                "uploadRatio": 0.0109
+            },
+            {
+                "id": 247,
+                "name": "The.Wiggles.Big.Birthday.2011.DVDRip.XViD-SPRiNTER",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 736309248,
+                "uploadRatio": 0.7241
+            },
+            {
+                "id": 248,
+                "name": "It's Always Christmas With You.avi",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 729623660,
+                "uploadRatio": 1
+            },
+            {
+                "id": 249,
+                "name": "Wiggle and Learn - The Best of Series 6",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1473040384,
+                "uploadRatio": 0.4975
+            },
+            {
+                "id": 250,
+                "name": "Cast.Away.2000.1080p.BluRay.DTS.x264-CRiSC",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 16248168065,
+                "uploadRatio": 0.2380
+            },
+            {
+                "id": 251,
+                "name": "The.Nest.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7543789243,
+                "uploadRatio": 0.2641
+            },
+            {
+                "id": 252,
+                "name": "Alien.Resurrection.1997.Special.Edition.1080p.BluRay.x264.DTS-WiKi",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10322345049,
+                "uploadRatio": 0.0677
+            },
+            {
+                "id": 253,
+                "name": "Home.Alone.1990.4K.Remaster.1080p.BluRay.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10523366378,
+                "uploadRatio": 0.3537
+            },
+            {
+                "id": 254,
+                "name": "Fantastic.Fungi.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-iND.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5490356379,
+                "uploadRatio": 0.4856
+            },
+            {
+                "id": 255,
+                "name": "Some.Like.It.Hot.1959.Criterion.720p.BluRay.AAC.x264-BMF.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 13262428432,
+                "uploadRatio": 0.0706
+            },
+            {
+                "id": 256,
+                "name": "Olive.the.Other.Reindeer.1999.DVDRip.x264-HANDJOB.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 769710834,
+                "uploadRatio": 0.0051
+            },
+            {
+                "id": 257,
+                "name": "Folklore.The.Long.Pond.Studio.Sessions.2020.1080p.WEB-DL.DDP5.1.H.264-ROCCaT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5652605913,
+                "uploadRatio": 0.1439
+            },
+            {
+                "id": 258,
+                "name": "The.Polar.Express.2004.1080p.BluRay.AC3.x264-HDMaNiAcS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7879067904,
+                "uploadRatio": 0.2631
+            },
+            {
+                "id": 259,
+                "name": "Blow.The.Man.Down.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6875141575,
+                "uploadRatio": 0.0281
+            },
+            {
+                "id": 260,
+                "name": "Shithouse.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6312227824,
+                "uploadRatio": 0.2718
+            },
+            {
+                "id": 261,
+                "name": "Mank.2020.1080p.NF.WEB-DL.DDP5.1.x264-CMRG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6924105993,
+                "uploadRatio": 0.2536
+            },
+            {
+                "id": 262,
+                "name": "Beowulf.2007.DC.Blu-Ray.1080p.DTS.x264.dxva-xander.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9056747441,
+                "uploadRatio": 0.0281
+            },
+            {
+                "id": 263,
+                "name": "A.League.of.Their.Own.1992.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10677842236,
+                "uploadRatio": 0.0004
+            },
+            {
+                "id": 264,
+                "name": "The.Sound.Of.Music.1965.1080p.BluRay.x264-CiNEFiLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14084892460,
+                "uploadRatio": 0.1498
+            },
+            {
+                "id": 265,
+                "name": "Possessor.Uncut.2020.720p.BluRay.DD5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6375229736,
+                "uploadRatio": 0.7404
+            },
+            {
+                "id": 266,
+                "name": "Tenet.2020.2160p.UHD.BluRay.DTS-HD.MA.5.1.HDR.x265-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 33115064631,
+                "uploadRatio": 0.7276
+            },
+            {
+                "id": 267,
+                "name": "Die.Hard.1988.BluRay.1080p.x264.DTS.dxva-xander.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 16352224320,
+                "uploadRatio": 0.1470
+            },
+            {
+                "id": 268,
+                "name": "die.hard.2.1990.1080p.bluray.x264-wpi.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8534935406,
+                "uploadRatio": 0.2667
+            },
+            {
+                "id": 269,
+                "name": "Martha Marcy May Marlene 2011 1080p BluRay DTS x264-EA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12269559565,
+                "uploadRatio": 0.0644
+            },
+            {
+                "id": 270,
+                "name": "Wolfwalkers.2020.1080p.WEB.h264-KOGi.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8067316570,
+                "uploadRatio": 0.1951
+            },
+            {
+                "id": 271,
+                "name": "A.Christmas.Carol.2009.1080p.BluRay.DD5.1.x264-DON",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9772887231,
+                "uploadRatio": 0.0846
+            },
+            {
+                "id": 272,
+                "name": "Christmas.by.Starlight.2020.720p.HDTV.x264-CRiMSON.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2158835370,
+                "uploadRatio": 0.0091
+            },
+            {
+                "id": 273,
+                "name": "One.Royal.Holiday.2020.720p.HDTV.x264-Solar.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 1090585314,
+                "uploadRatio": 0.0237
+            },
+            {
+                "id": 274,
+                "name": "Tenet.2020.REPACK.2160p.UHD.BluRay.DTS-HD.MA.5.1.HDR.x265-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 36297868261,
+                "uploadRatio": 0.3032
+            },
+            {
+                "id": 275,
+                "name": "Citizen.Kane.1941.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8215784741,
+                "uploadRatio": 0.0857
+            },
+            {
+                "id": 276,
+                "name": "Sound.of.Metal.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9173883095,
+                "uploadRatio": 0.3166
+            },
+            {
+                "id": 277,
+                "name": "Flight.2012.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14565480562,
+                "uploadRatio": 0.0511
+            },
+            {
+                "id": 278,
+                "name": "The.Lego.Star.Wars.Holiday.Special.2020.1080p.WEB-DL.DDP5.1.H.264-ROCCaT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2948847503,
+                "uploadRatio": 0.0708
+            },
+            {
+                "id": 279,
+                "name": "Black.Bear.2020.AMZN.1080p.WEB-DL.H264.DDP5.1",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7572574118,
+                "uploadRatio": 0.0709
+            },
+            {
+                "id": 280,
+                "name": "Ma.Raineys.Black.Bottom.2020.1080p.NF.WEB-DL.DD+5.1.Atmos.x264-iKA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 3366806219,
+                "uploadRatio": 0.0828
+            },
+            {
+                "id": 281,
+                "name": "Spartacus.1960.720p.BluRay.DTS.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11229640773,
+                "uploadRatio": 0.0287
+            },
+            {
+                "id": 282,
+                "name": "Soul.2020.2160p.WEB-DL.DDP5.1.Atmos.x265-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 15537756593,
+                "uploadRatio": 0.2866
+            },
+            {
+                "id": 283,
+                "name": "Wonder.Woman.1984.2020.2160p.HMAX.WEB-DL.DDP5.1.Atmos.HDR.HEVC-TOMMY.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 21180090476,
+                "uploadRatio": 0.7633
+            },
+            {
+                "id": 284,
+                "name": "Wonder.Woman.1984.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11841558304,
+                "uploadRatio": 0.3708
+            },
+            {
+                "id": 285,
+                "name": "The.Witches.2020.1080p.BluRay.DD5.1.x264-CtrlHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6211724520,
+                "uploadRatio": 0.0102
+            },
+            {
+                "id": 286,
+                "name": "Alien.Covenant.2017.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9393632302,
+                "uploadRatio": 0.0405
+            },
+            {
+                "id": 287,
+                "name": "The.Walk.2015.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9390686353,
+                "uploadRatio": 0.1542
+            },
+            {
+                "id": 288,
+                "name": "Burrow.2020.720p.DSNP.WEB-DL.DDP5.1.H.264-tobias",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 156232535,
+                "uploadRatio": 0.0754
+            },
+            {
+                "id": 289,
+                "name": "Crocodile.Dundee.1986.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8215053317,
+                "uploadRatio": 0.0021
+            },
+            {
+                "id": 290,
+                "name": "The.Croods.A.New.Age.2020.1080p.WEB.H264-STRONTiUM.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6031052140,
+                "uploadRatio": 0.1014
+            },
+            {
+                "id": 291,
+                "name": "Run.2020.1080p.BluRay.DD+5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8434776972,
+                "uploadRatio": 0.1303
+            },
+            {
+                "id": 292,
+                "name": "Allied.2016.1080p.BluRay.x264-SPARKS",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9402836602,
+                "uploadRatio": 0.0009
+            },
+            {
+                "id": 293,
+                "name": "Indiana.Jones.and.the.Raiders.of.the.Lost.Ark.1981.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9418485115,
+                "uploadRatio": 0.0001
+            },
+            {
+                "id": 294,
+                "name": "The.Painter.and.the.Thief.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7744951346,
+                "uploadRatio": 0.0050
+            },
+            {
+                "id": 295,
+                "name": "One.Night.in.Miami.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-MZABI.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 6594310122,
+                "uploadRatio": 0.2620
+            },
+            {
+                "id": 296,
+                "name": "Promising Young Woman 2021.AMZN.1080p.WEB-DL.DDP5.1",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7002323517,
+                "uploadRatio": 0.5272
+            },
+            {
+                "id": 297,
+                "name": "Welcome.to.Marwen.2018.1080p.BluRay.DD5.1.x264-playHD.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 10614382494,
+                "uploadRatio": 0.0888
+            },
+            {
+                "id": 298,
+                "name": "Galaxy Quest (1999).mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9007204405,
+                "uploadRatio": 0
+            },
+            {
+                "id": 299,
+                "name": "Gravity.2013.1080p.BluRay.DTS.x264-NTb.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 11555959009,
+                "uploadRatio": 0.0775
+            },
+            {
+                "id": 300,
+                "name": "Feels.Good.Man.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264-NOH8JUSTLOVE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 5521627395,
+                "uploadRatio": 0
+            },
+            {
+                "id": 301,
+                "name": "News.of.the.World.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 7773500453,
+                "uploadRatio": 0.4615
+            },
+            {
+                "id": 302,
+                "name": "Inner.Workings.2016.1080p.BluRay.DD5.1.x264-decibeL.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 660812306,
+                "uploadRatio": 0
+            },
+            {
+                "id": 303,
+                "name": "The.Croods.2013.1080p.BluRay.DTS.x264-SbR.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 9564068414,
+                "uploadRatio": 0.0257
+            },
+            {
+                "id": 304,
+                "name": "In.and.of.Itself.2020.1080p.WEB.H264-NAISU",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2605637304,
+                "uploadRatio": 0.1239
+            },
+            {
+                "id": 305,
+                "name": "Goosebumps.2015.1080p.BluRay.x264-Replica",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8250139501,
+                "uploadRatio": 0
+            },
+            {
+                "id": 306,
+                "name": "Mean.Girls.2004.1080p.BluRay.x264-CiNEFiLE.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 8530495962,
+                "uploadRatio": 0.0374
+            },
+            {
+                "id": 307,
+                "name": "The Great Mouse Detective 1986 1080p BluRay DD5.1 x264-TayTO.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 245000,
+                "totalSize": 9667943442,
+                "uploadRatio": 0.0535
+            },
+            {
+                "id": 308,
+                "name": "Druk.2020.1080p.BluRay.DD+5.1.x264-iFT.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12875036645,
+                "uploadRatio": 0.0425
+            },
+            {
+                "id": 309,
+                "name": "The New York Times Presents Framing Britney Spears.mkv",
+                "percentDone": 0,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 2815189821,
+                "uploadRatio": -1
+            },
+            {
+                "id": 310,
+                "name": "The.Parent.Trap.1998.1080p.BluRay.X264-AMIABLE",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 14085192568,
+                "uploadRatio": 0.0027
+            },
+            {
+                "id": 311,
+                "name": "Nomadland.2020.1080p.HULU.WEB-DL.DDP5.1.H.264-iKA.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 16000,
+                "totalSize": 4332361758,
+                "uploadRatio": 0.2355
+            },
+            {
+                "id": 312,
+                "name": "Fantasia.1940.1080p.BluRay.DTS.x264-EbP.mkv",
+                "percentDone": 1,
+                "rateDownload": 0,
+                "rateUpload": 0,
+                "totalSize": 12791656698,
+                "uploadRatio": 0
+            }
+        ]
+    },
+    "result": "success"
+}
