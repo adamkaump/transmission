@@ -10,7 +10,7 @@ import Foundation
 struct Api {
     static func allTorrents(completion: @escaping (TorrentsContainer?) -> Void) {
         
-        let urlString = "http://192.168.1.13:9091/transmission/rpc"
+        let urlString = "\(rootUrl)/transmission/rpc"
         self.req(urlString: urlString, method: "POST", body: standardBody) { data, response, error in
             if let data = data, let container = try? JSONDecoder().decode(TorrentsContainer.self, from: data) {
                 DispatchQueue.main.async {
@@ -22,7 +22,7 @@ struct Api {
     }
     
     static func sessionId(completion: @escaping (String?) -> Void) {
-        let url = URL(string: "http://192.168.1.13:9091/transmission/rpc")!
+        let url = URL(string: "\(rootUrl)/transmission/rpc")!
         let request = URLRequest(url: url)
         URLSession.shared.dataTask(with: request) { data, response, error in
             let sessionId = (response as? HTTPURLResponse)?.value(forHTTPHeaderField: "X-Transmission-Session-Id")
@@ -61,6 +61,13 @@ struct Api {
 }
 
 extension Api {
+    
+    static var rootUrl: String {
+        let ip = UserDefaults.standard.string(forKey: "ip") ?? ""
+        let port = UserDefaults.standard.string(forKey: "port") ?? ""
+        return "http://" + ip + ":" + port
+    }
+    
     static var standardBody: Data? {
         var body = [String: Any]()
         body["method"] = "torrent-get"

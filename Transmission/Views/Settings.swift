@@ -28,7 +28,7 @@ struct Settings: View {
 
                 Section {
                     NavigationLink(
-                        destination: Text("Setup"),
+                        destination: Setup(),
                         label: {
                             Text("Setup")
                         })
