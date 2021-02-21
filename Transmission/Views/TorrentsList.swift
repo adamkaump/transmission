@@ -1,13 +1,13 @@
 //
-//  ContentView.swift
+//  TorrentsList.swift
 //  Transmission
 //
-//  Created by Adam Kaump on 2/19/21.
+//  Created by Adam Kaump on 2/20/21.
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct TorrentsList: View {
     
     @State private var container: TorrentsContainer? = Bundle.main.decode(TorrentsContainer.self, from: "data.json")
     @State private var showingSettings = false
@@ -17,22 +17,7 @@ struct ContentView: View {
             List {
                 if let torrents = container?.torrents {
                     ForEach(torrents) { torrent in
-                        VStack(alignment: .leading) {
-                            Text(torrent.name)
-                                .fontWeight(.medium)
-                            
-                            Spacer(minLength: 10)
-                            
-                            HStack {
-                                Spacer()
-                                VStack(alignment: .trailing) {
-                                    Text(torrent.percentFormatted)
-                                    Text(torrent.sizeFormatted)
-                                    Text(torrent.uploadRatioFormatted)
-                                }
-                                .font(.caption)
-                            }
-                        }
+                        TorrentView(torrent: torrent)
                     }
                 }
             }
@@ -58,7 +43,30 @@ struct ContentView: View {
     }
 }
 
-extension ContentView {
+struct TorrentView: View {
+    var torrent: Torrent
+
+    var body: some View {
+        VStack(alignment: .leading) {
+            Text(torrent.name)
+                .fontWeight(.medium)
+            
+            Spacer(minLength: 10)
+            
+            HStack {
+                Spacer()
+                VStack(alignment: .trailing) {
+                    Text(torrent.percentFormatted)
+                    Text(torrent.sizeFormatted)
+                    Text(torrent.uploadRatioFormatted)
+                }
+                .font(.caption)
+            }
+        }
+    }
+}
+
+extension TorrentsList {
     func loadData() {
         Api.allTorrents { container in
             self.container = container
@@ -66,8 +74,9 @@ extension ContentView {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+
+struct TorrentsList_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        TorrentsList()
     }
 }

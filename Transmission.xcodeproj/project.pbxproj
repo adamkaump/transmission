@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		AC33FC7925E1F50E00CAD5AB /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC33FC7825E1F50E00CAD5AB /* Api.swift */; };
+		AC33FC7B25E2042000CAD5AB /* TorrentsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC33FC7A25E2042000CAD5AB /* TorrentsList.swift */; };
 		AC76E8BE25E0C1D3003024D1 /* TransmissionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */; };
-		AC76E8C025E0C1D3003024D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8BF25E0C1D3003024D1 /* ContentView.swift */; };
 		AC76E8C225E0C1D5003024D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC76E8C125E0C1D5003024D1 /* Assets.xcassets */; };
 		AC76E8C525E0C1D5003024D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC76E8C425E0C1D5003024D1 /* Preview Assets.xcassets */; };
 		AC76E8CE25E0C272003024D1 /* Torrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8CD25E0C272003024D1 /* Torrent.swift */; };
@@ -20,9 +20,9 @@
 
 /* Begin PBXFileReference section */
 		AC33FC7825E1F50E00CAD5AB /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
+		AC33FC7A25E2042000CAD5AB /* TorrentsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorrentsList.swift; sourceTree = "<group>"; };
 		AC76E8BA25E0C1D3003024D1 /* Transmission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Transmission.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionApp.swift; sourceTree = "<group>"; };
-		AC76E8BF25E0C1D3003024D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC76E8C125E0C1D5003024D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC76E8C425E0C1D5003024D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AC76E8C625E0C1D5003024D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,6 +44,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC33FC7D25E2057500CAD5AB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AC33FC7A25E2042000CAD5AB /* TorrentsList.swift */,
+				ACB5AD6F25E14FD7005384D1 /* Settings.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AC33FC7E25E2058800CAD5AB /* Api */ = {
+			isa = PBXGroup;
+			children = (
+				AC33FC7825E1F50E00CAD5AB /* Api.swift */,
+			);
+			path = Api;
+			sourceTree = "<group>";
+		};
+		AC33FC7F25E2059200CAD5AB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AC76E8CD25E0C272003024D1 /* Torrent.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		AC33FC8025E205AB00CAD5AB /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				AC76E8D025E0C2F6003024D1 /* Bundle+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		AC33FC8125E205BC00CAD5AB /* Misc */ = {
+			isa = PBXGroup;
+			children = (
+				AC76E8D625E0CBCD003024D1 /* Transmission.entitlements */,
+				AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */,
+				AC76E8C125E0C1D5003024D1 /* Assets.xcassets */,
+				AC76E8C625E0C1D5003024D1 /* Info.plist */,
+				AC76E8D325E0C325003024D1 /* data.json */,
+				AC76E8C325E0C1D5003024D1 /* Preview Content */,
+			);
+			path = Misc;
+			sourceTree = "<group>";
+		};
 		AC76E8B125E0C1D3003024D1 = {
 			isa = PBXGroup;
 			children = (
@@ -63,17 +109,11 @@
 		AC76E8BC25E0C1D3003024D1 /* Transmission */ = {
 			isa = PBXGroup;
 			children = (
-				AC76E8D625E0CBCD003024D1 /* Transmission.entitlements */,
-				AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */,
-				AC76E8BF25E0C1D3003024D1 /* ContentView.swift */,
-				AC76E8C125E0C1D5003024D1 /* Assets.xcassets */,
-				AC76E8C625E0C1D5003024D1 /* Info.plist */,
-				AC76E8CD25E0C272003024D1 /* Torrent.swift */,
-				AC76E8D025E0C2F6003024D1 /* Bundle+Extension.swift */,
-				AC76E8D325E0C325003024D1 /* data.json */,
-				ACB5AD6F25E14FD7005384D1 /* Settings.swift */,
-				AC76E8C325E0C1D5003024D1 /* Preview Content */,
-				AC33FC7825E1F50E00CAD5AB /* Api.swift */,
+				AC33FC7E25E2058800CAD5AB /* Api */,
+				AC33FC8025E205AB00CAD5AB /* Extensions */,
+				AC33FC8125E205BC00CAD5AB /* Misc */,
+				AC33FC7F25E2059200CAD5AB /* Models */,
+				AC33FC7D25E2057500CAD5AB /* Views */,
 			);
 			path = Transmission;
 			sourceTree = "<group>";
@@ -157,10 +197,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC33FC7925E1F50E00CAD5AB /* Api.swift in Sources */,
-				AC76E8C025E0C1D3003024D1 /* ContentView.swift in Sources */,
 				AC76E8BE25E0C1D3003024D1 /* TransmissionApp.swift in Sources */,
 				AC76E8CE25E0C272003024D1 /* Torrent.swift in Sources */,
 				AC76E8D125E0C2F6003024D1 /* Bundle+Extension.swift in Sources */,
+				AC33FC7B25E2042000CAD5AB /* TorrentsList.swift in Sources */,
 				ACB5AD7025E14FD7005384D1 /* Settings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -291,10 +331,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Transmission/Transmission.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Transmission/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Transmission/Misc/Preview Content\"";
 				DEVELOPMENT_TEAM = B6H47EV69F;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Transmission/Info.plist;
+				INFOPLIST_FILE = Transmission/Misc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -315,10 +355,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Transmission/Transmission.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Transmission/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Transmission/Misc/Preview Content\"";
 				DEVELOPMENT_TEAM = B6H47EV69F;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Transmission/Info.plist;
+				INFOPLIST_FILE = Transmission/Misc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

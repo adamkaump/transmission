@@ -32,13 +32,6 @@ struct Api {
         let fields = ["fields": ["id", "name", "percentDone", "totalSize", "rateDownload", "rateUpload", "uploadRatio"]]
         body["arguments"] = fields
         
-        /*{
-         "arguments": {
-           "fields": [ "id", "name", "percentDone", "totalSize", "rateDownload", "rateUpload", "uploadRatio" ]
-         },
-         "method": "torrent-get"
-       }*/
-        
         do {
             let data = try JSONSerialization.data(withJSONObject: body, options: .prettyPrinted)
             return data
