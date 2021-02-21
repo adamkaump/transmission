@@ -9,13 +9,13 @@ import SwiftUI
 
 struct ContentView: View {
     
-    var container = Bundle.main.decode(TorrentsContainer.self, from: "data.json")
+    @State private var container: TorrentsContainer? = Bundle.main.decode(TorrentsContainer.self, from: "data.json")
     @State private var showingSettings = false
     
     var body: some View {
         NavigationView {
             List {
-                if let torrents = container.torrents {
+                if let torrents = container?.torrents {
                     ForEach(torrents) { torrent in
                         VStack(alignment: .leading) {
                             Text(torrent.name)
@@ -54,7 +54,15 @@ struct ContentView: View {
             }
         }
         .navigationViewStyle(StackNavigationViewStyle())
-        
+        .onAppear(perform: loadData)
+    }
+}
+
+extension ContentView {
+    func loadData() {
+        Api.allTorrents { container in
+            self.container = container
+        }
     }
 }
 

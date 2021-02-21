@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC33FC7925E1F50E00CAD5AB /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC33FC7825E1F50E00CAD5AB /* Api.swift */; };
 		AC76E8BE25E0C1D3003024D1 /* TransmissionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */; };
 		AC76E8C025E0C1D3003024D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8BF25E0C1D3003024D1 /* ContentView.swift */; };
 		AC76E8C225E0C1D5003024D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC76E8C125E0C1D5003024D1 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC33FC7825E1F50E00CAD5AB /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 		AC76E8BA25E0C1D3003024D1 /* Transmission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Transmission.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC76E8BD25E0C1D3003024D1 /* TransmissionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionApp.swift; sourceTree = "<group>"; };
 		AC76E8BF25E0C1D3003024D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				AC76E8D325E0C325003024D1 /* data.json */,
 				ACB5AD6F25E14FD7005384D1 /* Settings.swift */,
 				AC76E8C325E0C1D5003024D1 /* Preview Content */,
+				AC33FC7825E1F50E00CAD5AB /* Api.swift */,
 			);
 			path = Transmission;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC33FC7925E1F50E00CAD5AB /* Api.swift in Sources */,
 				AC76E8C025E0C1D3003024D1 /* ContentView.swift in Sources */,
 				AC76E8BE25E0C1D3003024D1 /* TransmissionApp.swift in Sources */,
 				AC76E8CE25E0C272003024D1 /* Torrent.swift in Sources */,
