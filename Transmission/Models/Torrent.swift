@@ -23,7 +23,7 @@ struct Torrent: Codable, Identifiable {
     var uploadRatioFormatted: String {
         let raw = self.uploadRatio
         let rounded = Double(round(100*raw)/100)
-        return "Ratio: \(rounded)%"
+        return "Ratio: \(rounded)"
     }
     
     var sizeFormatted: String {
@@ -33,11 +33,3 @@ struct Torrent: Codable, Identifiable {
     }
 }
 
-struct TorrentsContainer: Codable {
-    let arguments: [String: [Torrent]]
-    var torrents: [Torrent]? {
-        return arguments["torrents"]?.sorted(by: { (a, b) -> Bool in
-            a.name.uppercased() < b.name.uppercased()
-        })
-    }
-}

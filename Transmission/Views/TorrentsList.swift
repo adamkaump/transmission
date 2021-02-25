@@ -9,13 +9,14 @@ import SwiftUI
 
 struct TorrentsList: View {
     
-    @State private var container: TorrentsContainer? = Bundle.main.decode(TorrentsContainer.self, from: "data.json")
+    @EnvironmentObject private var allData: AllData
     @State private var showingSettings = false
+    @State private var showingSortFilter = false
     
     var body: some View {
         NavigationView {
             List {
-                if let torrents = container?.torrents {
+                if let torrents = allData.torrents {
                     ForEach(torrents) { torrent in
                         TorrentView(torrent: torrent)
                     }
@@ -32,7 +33,9 @@ struct TorrentsList: View {
                     }
                 }
                 ToolbarItem(placement: .navigationBarTrailing) {
-                    Button(action: {}, label: {
+                    Button(action: {
+                            showingSortFilter.toggle()
+                    }, label: {
                         Image(systemName: "line.horizontal.3.decrease.circle")
                     })
                 }
@@ -40,6 +43,9 @@ struct TorrentsList: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .onAppear(perform: loadData)
+        .sheet(isPresented: self.$showingSortFilter) {
+            SortFilter()
+        }
     }
 }
 
@@ -69,7 +75,7 @@ struct TorrentView: View {
 extension TorrentsList {
     func loadData() {
         Api.allTorrents { container in
-            self.container = container
+            self.allData.container = container
         }
     }
 }
@@ -77,6 +83,6 @@ extension TorrentsList {
 
 struct TorrentsList_Previews: PreviewProvider {
     static var previews: some View {
-        TorrentsList()
+        TorrentsList().environmentObject(AllData())
     }
 }

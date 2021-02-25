@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct TransmissionApp: App {
+    
+    @StateObject var allData = AllData()
+    
     var body: some Scene {
         WindowGroup {
             TorrentsList()
+                .environmentObject(allData)
         }
     }
 }

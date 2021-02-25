@@ -15,6 +15,7 @@ struct Api {
             if let data = data, let container = try? JSONDecoder().decode(TorrentsContainer.self, from: data) {
                 DispatchQueue.main.async {
                     completion(container)
+                    return
                 }
             }
             completion(nil)
@@ -54,7 +55,9 @@ struct Api {
                     print(code)
                 }
                 
-                completion(data, response, error)
+                DispatchQueue.main.async {
+                    completion(data, response, error)
+                }
             }.resume()
         }
     }

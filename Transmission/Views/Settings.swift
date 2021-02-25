@@ -21,7 +21,7 @@ struct Settings: View {
                     })
                 
                 NavigationLink(
-                    destination: Text("Todo"),
+                    destination: AddTorrent(),
                     label: {
                         Text("Add Torrent")
                     })
