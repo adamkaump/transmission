@@ -15,6 +15,8 @@ struct Torrent: Codable, Identifiable {
     let rateDownload: Int
     let totalSize: Double
     let uploadRatio: Double
+    let addedDate: Int
+    let uploadedEver: Double
     
     var percentFormatted: String {
         return "\(self.percentDone * 100)%"
@@ -27,9 +29,19 @@ struct Torrent: Codable, Identifiable {
     }
     
     var sizeFormatted: String {
-        let gb = totalSize * 0.000000001
-        let rounded = Double(round(100*gb)/100)
-        return "\(rounded) GB"
+        return "Size: \(totalSize.gbString)"
+    }
+    
+    var uploadedEverFormatted: String {
+        return "Uploaded: \(uploadedEver.gbString)"
+    }
+    
+    var addedDateFormatted: String {
+        let interval = TimeInterval(addedDate)
+        let date = Date(timeIntervalSince1970: interval)
+        let formatter = DateFormatter()
+        formatter.dateStyle = .short
+        return "Added: \(formatter.string(from: date))"
     }
 }
 

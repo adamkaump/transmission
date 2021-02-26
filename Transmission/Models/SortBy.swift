@@ -11,9 +11,11 @@ enum SortBy: String {
     case name = "Name"
     case size = "Size"
     case ratio = "Ratio"
+    case dateAdded = "Date Added"
+    case uploaded = "Uploaded"
     
     static func allSortOptions() -> [SortBy] {
-        return [.name, .size, .ratio]
+        return [.name, .size, .ratio, .dateAdded, .uploaded]
     }
     
     static func sortByOptionFromRawValue(_ rawValue: String) -> SortBy? {
@@ -37,6 +39,10 @@ enum SortBy: String {
                 return a.totalSize > b.totalSize
             case .ratio:
                 return a.uploadRatio > b.uploadRatio
+            case .dateAdded:
+                return a.addedDate > b.addedDate
+            case .uploaded:
+                return a.uploadedEver > b.uploadedEver
             }
         }
     }

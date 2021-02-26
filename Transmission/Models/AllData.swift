@@ -23,7 +23,7 @@ class AllData: ObservableObject {
     
     @Published var torrents: [Torrent]? {
         didSet {
-            print("here")
+//            print("here")
         }
     }
 }

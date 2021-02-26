@@ -21,6 +21,7 @@
 		AC76E8CE25E0C272003024D1 /* Torrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8CD25E0C272003024D1 /* Torrent.swift */; };
 		AC76E8D125E0C2F6003024D1 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC76E8D025E0C2F6003024D1 /* Bundle+Extension.swift */; };
 		AC76E8D425E0C325003024D1 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = AC76E8D325E0C325003024D1 /* data.json */; };
+		AC8BE63C25E7DD4400392115 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8BE63B25E7DD4400392115 /* Double+Extension.swift */; };
 		ACAAB68425E5B1040058CDED /* AllData.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAAB68325E5B1040058CDED /* AllData.swift */; };
 		ACB5AD7025E14FD7005384D1 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB5AD6F25E14FD7005384D1 /* Settings.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +44,7 @@
 		AC76E8D025E0C2F6003024D1 /* Bundle+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
 		AC76E8D325E0C325003024D1 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		AC76E8D625E0CBCD003024D1 /* Transmission.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Transmission.entitlements; sourceTree = "<group>"; };
+		AC8BE63B25E7DD4400392115 /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
 		ACAAB68325E5B1040058CDED /* AllData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllData.swift; sourceTree = "<group>"; };
 		ACB5AD6F25E14FD7005384D1 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				AC76E8D025E0C2F6003024D1 /* Bundle+Extension.swift */,
+				AC8BE63B25E7DD4400392115 /* Double+Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 			files = (
 				AC33FC8925E4983F00CAD5AB /* SortBy.swift in Sources */,
 				AC33FC8B25E4985600CAD5AB /* Storage.swift in Sources */,
+				AC8BE63C25E7DD4400392115 /* Double+Extension.swift in Sources */,
 				AC33FC8D25E4B54D00CAD5AB /* TorrentsContainer.swift in Sources */,
 				AC33FC8725E2B8CE00CAD5AB /* AddTorrent.swift in Sources */,
 				AC33FC7925E1F50E00CAD5AB /* Api.swift in Sources */,

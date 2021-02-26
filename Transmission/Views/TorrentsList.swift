@@ -63,7 +63,9 @@ struct TorrentView: View {
                 Spacer()
                 VStack(alignment: .trailing) {
                     Text(torrent.percentFormatted)
+                    Text(torrent.addedDateFormatted)
                     Text(torrent.sizeFormatted)
+                    Text(torrent.uploadedEverFormatted)
                     Text(torrent.uploadRatioFormatted)
                 }
                 .font(.caption)

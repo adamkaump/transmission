@@ -75,7 +75,7 @@ extension Api {
         var body = [String: Any]()
         body["method"] = "torrent-get"
         
-        let fields = ["fields": ["id", "name", "percentDone", "totalSize", "rateDownload", "rateUpload", "uploadRatio"]]
+        let fields = ["fields": ["id", "name", "percentDone", "totalSize", "rateDownload", "rateUpload", "uploadRatio", "addedDate", "uploadedEver"]]
         body["arguments"] = fields
         
         do {
