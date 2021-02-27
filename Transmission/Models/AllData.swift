@@ -21,6 +21,13 @@ class AllData: ObservableObject {
         }
     }
     
+     var ascendingDescending: AscendingDescending = Storage.ascendingDescending() {
+         didSet {
+             Storage.setAscendingDescending(ascendingDescending)
+             torrents = container?.sortedAndFilteredTorrents
+         }
+     }
+    
     @Published var torrents: [Torrent]? {
         didSet {
 //            print("here")

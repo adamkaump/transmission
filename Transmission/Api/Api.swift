@@ -8,18 +8,29 @@
 import Foundation
 
 struct Api {
+    
     static func allTorrents(completion: @escaping (TorrentsContainer?) -> Void) {
         
         let urlString = "\(rootUrl)/transmission/rpc"
+        
         self.req(urlString: urlString, method: "POST", body: standardBody) { data, response, error in
-            if let data = data, let container = try? JSONDecoder().decode(TorrentsContainer.self, from: data) {
+            
+            var container: TorrentsContainer?
+            defer {
                 DispatchQueue.main.async {
                     completion(container)
-                    return
                 }
             }
-            completion(nil)
+            
+            if let data = data {
+                do {
+                    container = try JSONDecoder().decode(TorrentsContainer.self, from: data)
+                } catch {
+                    print(error)
+                }
+            }
         }
+        
     }
     
     static func sessionId(completion: @escaping (String?) -> Void) {
@@ -42,7 +53,7 @@ struct Api {
         
         Api.sessionId { sessionId in
             
-            guard let sessionId = sessionId else {
+            guard let sessionId = sessionId, sessionId != "" else {
                 print("unable to get session id")
                 completion(nil, nil, NSError())
                 return
@@ -86,3 +97,5 @@ extension Api {
         }
     }
 }
+
+class Model: Codable {}

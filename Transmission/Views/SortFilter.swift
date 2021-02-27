@@ -44,8 +44,22 @@ struct SortFilter: View {
                 }
                 
                 Section(header: Text("Sort")) {
-                    Text("Ascending")
-                    Text("Descending")
+                    
+                    ForEach( AscendingDescending.allValues(), id: \.self) { option in
+                        Button {
+                            allData.ascendingDescending = option
+                        } label: {
+                            HStack {
+                                Text(option.rawValue)
+                                    .foregroundColor(Color.primary)
+                                Spacer()
+                                if allData.ascendingDescending == option {
+                                    Image(systemName: "checkmark")
+                                }
+                            }
+                            
+                        }
+                    }
                 }
                 
                 Section {

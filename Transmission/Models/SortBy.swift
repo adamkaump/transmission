@@ -30,19 +30,26 @@ enum SortBy: String {
     }
     
     var sortClosure: (_ a: Torrent, _ b: Torrent) -> Bool {
-
+        
         return { (a: Torrent, b: Torrent) -> Bool in
+            
+            var c = a, d = b
+            if Storage.ascendingDescending() == .descending {
+                d = a
+                c = b
+            }
+            
             switch self {
             case .name:
-                return a.name.uppercased() < b.name.uppercased()
+                return c.name.uppercased() < d.name.uppercased()
             case .size:
-                return a.totalSize > b.totalSize
+                return c.totalSize < d.totalSize
             case .ratio:
-                return a.uploadRatio > b.uploadRatio
+                return c.uploadRatio < d.uploadRatio
             case .dateAdded:
-                return a.addedDate > b.addedDate
+                return c.addedDate < d.addedDate
             case .uploaded:
-                return a.uploadedEver > b.uploadedEver
+                return c.uploadedEver < d.uploadedEver
             }
         }
     }

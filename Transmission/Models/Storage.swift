@@ -10,18 +10,8 @@ import SwiftUI
 class Storage {
     
     static let sortByKey = "sortBy"
-    
-//    var sortBy: SortBy {
-//        get { return Storage.sortBy() }
-//        set {
-//
-//
-//        }
-//        didSet {
-//            objectWillChange.send()
-//        }
-//    }
-  
+    static let ascendingDescendingKey = "ascendingDescending"
+
     static func setSortBy(_ sortBy: SortBy) {
         UserDefaults.standard.setValue(sortBy.rawValue, forKey: Storage.sortByKey)
     }
@@ -34,5 +24,17 @@ class Storage {
         }
         
         return sortBy
+    }
+    
+    static func setAscendingDescending(_ ascendingDescending: AscendingDescending) {
+        UserDefaults.standard.setValue(ascendingDescending.rawValue, forKey: Storage.ascendingDescendingKey)
+    }
+    
+    static func ascendingDescending() -> AscendingDescending {
+        guard let key = UserDefaults.standard.string(forKey: Storage.ascendingDescendingKey), let ascendingDescending = AscendingDescending.ascendingDescendingFromRawValue(key) else {
+            return AscendingDescending.ascending
+        }
+        
+        return ascendingDescending
     }
 }
